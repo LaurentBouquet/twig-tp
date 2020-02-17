@@ -1,0 +1,16 @@
+{
+    "name": "bouquet/twig-tp",
+    "description": "Small project to learn the twig tool",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Laurent Bouquet",
+            "email": "l.bouquet@ndlaprovidence.org"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
