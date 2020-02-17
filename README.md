@@ -65,7 +65,10 @@ Documentation sur Twig : `https://twig.symfony.com/doc/3.x/`
 ---
 ## Créer le projet 
 
-1. `composer init`
+1. Initialiser `composer`
+```
+composer init
+```
 - Package name : VOTRE-NOM/twig-tp
 - Description : Small project to learn the twig tool
 - Author : VOTRE-NOM \<VOTRE-ADRESSE-EMAIL\>
@@ -79,12 +82,18 @@ Documentation sur Twig : `https://twig.symfony.com/doc/3.x/`
 
 
 ---
-2. `composer install`
+2. Lancer l'installation de `composer`
+```
+composer install
+```
 
 
 
 ---
-3. `code .`
+3. Démarrer Visual Studio Code
+```
+code .
+```
 
 
 
